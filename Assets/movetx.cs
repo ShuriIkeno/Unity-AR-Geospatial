@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class move : MonoBehaviour
+public class movetx : MonoBehaviour
 {
 
     // public float radius = 100.0f;  // 円の半径
